@@ -14,7 +14,7 @@ const app = express();
 
 var corsOptions = {
   // origin: "http://localhost:3000",
-  origin: "https://vigorous-jennings-bd8330.netlify.app/",
+  origin: "https://vigorous-jennings-bd8330.netlify.app",
   optionsSuccessStatus: 200,
 };
 
