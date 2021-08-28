@@ -14,7 +14,8 @@ const app = express();
 
 var corsOptions = {
   // origin: "http://localhost:3000",
-  origin: "https://6129e1ea6d7abb00078fa0aa--jovial-yonath-58f87c.netlify.app",
+  origin:
+    "https://6129eaf535727be7717c5ef5--vigorous-jennings-bd8330.netlify.app",
   optionsSuccessStatus: 200,
 };
 
